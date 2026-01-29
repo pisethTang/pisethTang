@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 Nice to meet you!
 
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 
 
-# Hi there, I'm Seth! 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg" alt="Snake animation" />
