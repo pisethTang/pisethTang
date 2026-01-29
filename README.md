@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisethTang&layout=compact&theme=vision-friendly-dark)
+
+
+![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisethTang&show_icons=true&theme=vision-friendly-dark)
+
+
+
 ![snake github contribution grid snake animation](https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg)
