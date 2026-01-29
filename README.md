@@ -17,30 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisethTang&layout=compact&theme=vision-friendly-dark)
-
-
-![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisethTang&show_icons=true&theme=vision-friendly-dark)
-
-
-
-![snake github contribution grid snake animation](https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg) -->
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg" alt="Snake animation" />
-</p>
+<!-- This is your Snake Animation -->
+<img src="https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg" alt="Snake animation" />
 
 ---
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pisethTang&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Seth's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisethTang&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-</p>
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=pisethTang&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Seth's Stats" height="170px" />
 
----
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisethTang&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="170px" />
+
+</div>
