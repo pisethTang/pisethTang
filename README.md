@@ -19,8 +19,7 @@
 
 
 $ neofetch
-User:      Seth
-OS:        Linux / Windows (WSL)
+OS:        Linux / Windows (WSL) \n
 Focus:     Backend • Systems • Applied AI
 Stack:     Go • TypeScript • React • Gin • MongoDB • Docker • AWS
 Interests: LLM agents • RL • distributed systems • compilers/math
