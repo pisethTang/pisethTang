@@ -9,8 +9,8 @@
 ┌───────────────────────────────────────────────────────────────────┐
 │ seth@github                                                       │
 ├───────────────────────────────────────────────────────────────────┤
-│ hi 👋 i'm seth (pisethTang)                                       │
-│ i build backend systems + applied ai                              │
+│ Hi 👋 I'm Seth.                                                   │
+│ I build backend systems + applied ai                              │
 │                                                                   │
 │ links:                                                            │
 │  • web: https://seth-tang.me                                      │
@@ -24,7 +24,10 @@ OS:        Linux / Windows (WSL)
 Focus:     Backend • Systems • Applied AI
 Stack:     Go • TypeScript • React • Gin • MongoDB • Docker • AWS
 Interests: LLM agents • RL • distributed systems • compilers/math
+
 ```
+
+
 
 <!-- This is your Snake Animation -->
 <img src="https://raw.githubusercontent.com/pisethTang/pisethTang/output/github-snake.svg" alt="Snake animation" />
