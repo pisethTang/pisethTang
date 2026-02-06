@@ -22,7 +22,7 @@ $ neofetch
 OS:        Linux / Windows (WSL) \n
 Focus:     Backend • Systems • Applied AI
 Stack:     Go • TypeScript • React • Gin • MongoDB • Docker • AWS
-Interests: LLM agents • RL • distributed systems • compilers/math
+Interests: LLM agents • RL • distributed systems • compilers/ pure math (analysis, algebra, geometry, etc)
 
 ```
 
