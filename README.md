@@ -38,17 +38,6 @@
 </picture>
 
 </div>
-
----
-
-### Selected work
-
-**[Battery_Dispatch_Optimization](https://github.com/pisethTang/Battery_Dispatch_Optimization)** · Python
-Decides when a battery charges vs. discharges against price signals to minimize cost, with a deployed dashboard for the results.
-
-**[Capstone_Project_III](https://github.com/pisethTang/Capstone_Project_III)** · C++ · Python
-Course notes and animation scripts for my Math Capstone: visualizing objects across analysis, algebra, and geometry to *explain* them, not just render them.
-
 ---
 
 <div align="center">
