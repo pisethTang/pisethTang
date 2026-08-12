@@ -12,7 +12,7 @@
 
 </div>
 
-> **What is computation?** - building the compiler in my head, one abstraction at a time.
+> One abstraction at a time.
 
 ---
 
